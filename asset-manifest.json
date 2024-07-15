@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frisson-lp/static/css/main.407da81c.css",
-    "main.js": "/frisson-lp/static/js/main.a0142580.js",
+    "main.js": "/frisson-lp/static/js/main.cfd9c932.js",
     "static/media/dec-business-right.svg": "/frisson-lp/static/media/dec-business-right.273529160e60ab1f1f91.svg",
     "static/media/dec-customer-right.svg": "/frisson-lp/static/media/dec-customer-right.3b394aa1806b983d8e03.svg",
     "static/media/MPLUS1p-ExtraBold.woff": "/frisson-lp/static/media/MPLUS1p-ExtraBold.b4203bef29f470bb97e0.woff",
@@ -28,10 +28,10 @@
     "static/media/googleplay.svg": "/frisson-lp/static/media/googleplay.d34fbc41465dff09d44b4be4dde7255c.svg",
     "index.html": "/frisson-lp/index.html",
     "main.407da81c.css.map": "/frisson-lp/static/css/main.407da81c.css.map",
-    "main.a0142580.js.map": "/frisson-lp/static/js/main.a0142580.js.map"
+    "main.cfd9c932.js.map": "/frisson-lp/static/js/main.cfd9c932.js.map"
   },
   "entrypoints": [
     "static/css/main.407da81c.css",
-    "static/js/main.a0142580.js"
+    "static/js/main.cfd9c932.js"
   ]
 }
