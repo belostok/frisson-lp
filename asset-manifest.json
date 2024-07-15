@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/frisson-lp/static/css/main.407da81c.css",
+    "main.js": "/frisson-lp/static/js/main.f8dfedde.js",
+    "static/media/dec-business-right.svg": "/frisson-lp/static/media/dec-business-right.273529160e60ab1f1f91.svg",
+    "static/media/dec-customer-right.svg": "/frisson-lp/static/media/dec-customer-right.3b394aa1806b983d8e03.svg",
+    "static/media/MPLUS1p-ExtraBold.woff": "/frisson-lp/static/media/MPLUS1p-ExtraBold.b4203bef29f470bb97e0.woff",
+    "static/media/MPLUS1p-Bold.woff": "/frisson-lp/static/media/MPLUS1p-Bold.2c52bdcf74883024a4df.woff",
+    "static/media/MPLUS1p-Regular.woff": "/frisson-lp/static/media/MPLUS1p-Regular.bb817cd1a4719088e4f3.woff",
+    "static/media/MPLUS1p-Medium.woff": "/frisson-lp/static/media/MPLUS1p-Medium.585366b78033c4d421dc.woff",
+    "static/media/MPLUS1p-ExtraBold.woff2": "/frisson-lp/static/media/MPLUS1p-ExtraBold.8304e739a00884bebbab.woff2",
+    "static/media/MPLUS1p-Bold.woff2": "/frisson-lp/static/media/MPLUS1p-Bold.c6b338f00a64ae566fff.woff2",
+    "static/media/MPLUS1p-Medium.woff2": "/frisson-lp/static/media/MPLUS1p-Medium.0024c2f5fd9611ea52fc.woff2",
+    "static/media/MPLUS1p-Regular.woff2": "/frisson-lp/static/media/MPLUS1p-Regular.e8a9bdfe7627140ee874.woff2",
+    "static/media/feature-1.svg": "/frisson-lp/static/media/feature-1.d801de909ebf0df2c606a5781beaea4d.svg",
+    "static/media/feature-2.svg": "/frisson-lp/static/media/feature-2.bbe13cd46c4a821cb62ac57da75bd2e5.svg",
+    "static/media/desktop.svg": "/frisson-lp/static/media/desktop.9e21871b40e16a99041c9e4d02520caf.svg",
+    "static/media/feature-3.svg": "/frisson-lp/static/media/feature-3.b1442580641f5821802fed56da48b41b.svg",
+    "static/media/dec-business-left.svg": "/frisson-lp/static/media/dec-business-left.4a38babb1d4f0c15789f.svg",
+    "static/media/dec-customer-left.svg": "/frisson-lp/static/media/dec-customer-left.c6bd140175977e5b73c3.svg",
+    "static/media/phones.webp": "/frisson-lp/static/media/phones.c455fff1e463bc81bd84.webp",
+    "static/media/help-bg.webp": "/frisson-lp/static/media/help-bg.558ba850f0a9385a5806.webp",
+    "static/media/dec-image-left.svg": "/frisson-lp/static/media/dec-image-left.912b20e5919bfe296e44.svg",
+    "static/media/dec-image-right.svg": "/frisson-lp/static/media/dec-image-right.b53b8941a974bbaab935.svg",
+    "static/media/appstore.svg": "/frisson-lp/static/media/appstore.e31b771299ac876099da6fffa6a4292a.svg",
+    "static/media/1.webp": "/frisson-lp/static/media/1.969779ee8ca2052283dd.webp",
+    "static/media/2.webp": "/frisson-lp/static/media/2.d7af33f4a0161766492c.webp",
+    "static/media/googleplay.svg": "/frisson-lp/static/media/googleplay.d34fbc41465dff09d44b4be4dde7255c.svg",
+    "index.html": "/frisson-lp/index.html",
+    "main.407da81c.css.map": "/frisson-lp/static/css/main.407da81c.css.map",
+    "main.f8dfedde.js.map": "/frisson-lp/static/js/main.f8dfedde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407da81c.css",
+    "static/js/main.f8dfedde.js"
+  ]
+}
